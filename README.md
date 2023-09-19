@@ -5,7 +5,7 @@ _Prerequisite: Knowledge of building your own Marlin firmware._
 -	Ender 3 with stock screen
 -	BIGTREETECH SKR Mini E3 V3
 -	BLTouch clone with 3 wires plugged into Z-Probe, and 2 wires plugged into Z-Stop.
--	Ensure jumpers for Neo-PWR1 pins enable on board 5V PSU. Refer to page 6 of the [user manual](https://github.com/bigtreetech/BIGTREETECH-SKR-mini-E3/blob/master/hardware/BTT%20SKR%20MINI%20E3%20V3.0/Hardware/BTT%20SKR%20MINI%20E3%20V3.0%20user%20manual.pdf).
+-	Short Neo-PWR1 pins to enable on board 5V PSU. Refer to page 6 of the [user manual](https://github.com/bigtreetech/BIGTREETECH-SKR-mini-E3/blob/master/hardware/BTT%20SKR%20MINI%20E3%20V3.0/Hardware/BTT%20SKR%20MINI%20E3%20V3.0%20user%20manual.pdf).
 -	Marlin version [2.1.2.1](https://github.com/MarlinFirmware/Marlin/releases/tag/2.1.2.1), built off the Creality Ender 3 with BTT SKR Mini E3 V3 [example configuration file]().
   
 ### Configuration.h changes
