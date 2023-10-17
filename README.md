@@ -1,4 +1,4 @@
-# BIGTREETECH-SKR-MINI-E3-V3-BLTouch-A-ZHoming
+# BIGTREETECH SKR MINI E3 V3 BLTouch ZHoming
 _Prerequisite: Knowledge of building your own Marlin firmware._
 
 ## My setup:
